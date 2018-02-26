@@ -21,7 +21,7 @@ public class CustomerController {
 	@Autowired
 	private CustomerService customerService;
 	
-	@RequestMapping
+	@RequestMapping("hello")
 	public String hello() {
 		return "hello";
 	}
