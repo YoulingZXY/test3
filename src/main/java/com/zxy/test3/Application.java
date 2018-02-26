@@ -1,4 +1,4 @@
-package com.zxy.test2;
+package com.zxy.test3;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 

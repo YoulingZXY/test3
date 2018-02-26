@@ -1,4 +1,4 @@
-package com.zxy.test2.service;
+package com.zxy.test3.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.zxy.test2.domain.Customer;
-import com.zxy.test2.domain.CustomerRepository;
+import com.zxy.test3.domain.Customer;
+import com.zxy.test3.domain.CustomerRepository;
 
 @Service
 public class CustomerService {

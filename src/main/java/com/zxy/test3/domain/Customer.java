@@ -1,4 +1,4 @@
-package com.zxy.test2.domain;
+package com.zxy.test3.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
